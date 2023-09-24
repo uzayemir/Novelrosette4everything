@@ -4,12 +4,19 @@
 ## Novel Rosette kspace dual-echo Acquisition for clinical and preclinical high (3T) and ultra- high fields (37T) scanners.
 Uzay Emir1,2, Xin Shen3, Ali Ozen4, Zoe Kourtzi5, Guy Williams6, Mark Chiew7,8, Peder Larson3 and Steve Sawiak5,6
 1 School of Health Sciences, Purdue University, West Lafayette, Indiana, USA.
+
 2 Weldon School of Biomedical Engineering, Purdue University, West Lafayette, Indiana, USA.
+
 3 Radiology and biomedical imaging, University of California San Francisco, CA, USA
+
 4 Department of Radiology, Medical Physics, Medical Center-University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+
 5 Department of Psychology, University of Cambridge, Cambridge, UK.
+
 6 Department of Clinical Neurosciences and Wolfson Brain Imaging Centre, University of Cambridge, Cambridge, UK.
+
 7 Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of Clinical Neurosciences, University of Oxford, OX3 9DU Oxford, UK.
+
 8 Department of Medical Biophysics, University of Toronto, Toronto, ON M5S 1A1, Canada.
 
 Shen et al. 2023 demonstrated the addition of novel rosette trajectory measurements in 3T 3D ultrashort echo time (UTE) MRI, i.e., to provide further insight into white matter ultrashort T2∗ components. Compared to the other k-space acquisition strategies, the modified rosette k-space trajectory allows a center-out sampling pattern that provides more outer k-space per spoke samples than radial spokes. In addition, the rosette k-space trajectory samples data in a more incoherent pattern. There, it offers the potential for further acceleration using higher under- sampling factors and the compressed sensing technique for reconstruction. Finally, to achieve mesoscopic resolutions (submillimeter, i.e., 0.5 mm3 for clinical scanners), this specific 3D rosette k-space design overcomes the slew rate limitation with very high duty cycle/sampling efficiency and better kspace coverage, resulting in high-resolution images with more than %30 SNR improvement.
