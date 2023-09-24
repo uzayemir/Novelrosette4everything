@@ -2,6 +2,12 @@
 ## We have demonstrated a sequence for clinical and preclinical high (3T) and ultra-high fields (37T) scanners. The Novel Rosette kspace dual- echo Acquisition strategy could further enhance integrated and translational research studies to better understand human and non-humans' complex structures and physiologies.
 
 ## Novel / Modified Rosette kspace dual-echo Acquisition for clinical and preclinical high (3T) and ultra- high fields (37T) scanners.
+
+# Minnesota High and Ultra high Field Workshop, 2023 Center for Magnetic Resonance research University of Minnesota
+
+## https://sites.google.com/umn.edu/2023-minnesota-workshop/poster
+
+
 Uzay Emir <sup> 1,2 </sup>, Xin Shen <sup>3</sup>, Ali Ozen<sup>4</sup>, Zoe Kourtzi<sup>5</sup>, Guy Williams<sup>6</sup>, Mark Chiew<sup>7,8</sup>, Peder Larson<sup>3</sup> and Steve Sawiak<sup>5,6</sup>
 
 <sup>1</sup> School of Health Sciences, Purdue University, West Lafayette, Indiana, USA.
